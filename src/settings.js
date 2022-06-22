@@ -1,1 +1,1 @@
-window._CCSettings={platform:"web-mobile",groupList:["default"],collisionMatrix:[[true]],hasResourcesBundle:false,hasStartSceneBundle:false,remoteBundles:[],subpackages:[],launchScene:"db://assets/Scenes/main.fire",orientation:"",jsList:[]};
+window._CCSettings={platform:"web-mobile",groupList:["default","Player","Enemy"],collisionMatrix:[[false],[false,false,true],[false,true,false]],hasResourcesBundle:false,hasStartSceneBundle:false,remoteBundles:[],subpackages:[],launchScene:"db://assets/Scenes/main.fire",orientation:"",jsList:[]};
